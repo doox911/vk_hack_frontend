@@ -1,0 +1,1 @@
+export { ModalNftInfo } from './ModalNftInfo';
